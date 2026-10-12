@@ -1,0 +1,6 @@
+import math
+
+def sigmoid(z: float) -> float:
+	#Your code here
+	return 1/(1+math.e**-z)
+	# return result
