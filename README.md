@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 47 problems · 6 labs · 0 math
+**54** solved · 47 problems · 7 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -69,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-10-14 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-10-15 | [solution](labs/0023-train-a-binary-classifier) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-10-17 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
+| [MNIST: Design-Your-Own tiny Pytorch Model](https://www.deep-ml.com/labs/2) | medium | 2026-10-21 | [solution](labs/0002-mnist-design-your-own-tiny-pytorch-model) |
 | [MNIST: Pytorch DataLoader](https://www.deep-ml.com/labs/1) | medium | 2026-10-16 | [solution](labs/0001-mnist-pytorch-dataloader) |
 
 ---
