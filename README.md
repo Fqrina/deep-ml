@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**84** solved · 75 problems · 7 labs · 2 math
+**85** solved · 76 problems · 7 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-11-17 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Apply Zero Padding to an Image](https://www.deep-ml.com/problems/239) | easy | 2026-10-20 | [solution](problems/0239-apply-zero-padding-to-an-image) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-10-16 | [solution](problems/0030-batch-iterator-for-dataset) |
+| [Build a Linear Regression Model with nn.Module](https://www.deep-ml.com/problems/885) | easy | 2026-11-18 | [solution](problems/0885-build-a-linear-regression-model-with-nn-module) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-10-12 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-12 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-10-19 | [solution](problems/0168-calculate-conditional-probability-from-data) |
