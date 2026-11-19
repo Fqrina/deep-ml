@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T07:15:26.133Z",
+  "generated_at": "2026-11-19T07:17:06.338Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1138,6 +1138,19 @@
       "path": "problems/1228-mean-squared-error-from-scratch",
       "first_solved_at": "2026-11-19T07:15:25.069Z",
       "last_pushed_at": "2026-11-19T07:15:25.069Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:1232": {
+      "kind": "problem",
+      "id": "1232",
+      "title": "Conv2d Output Shape",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1232",
+      "path": "problems/1232-conv2d-output-shape",
+      "first_solved_at": "2026-11-19T07:17:05.402Z",
+      "last_pushed_at": "2026-11-19T07:17:05.402Z",
       "language": "python",
       "lines": 15
     }
