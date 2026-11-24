@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T11:48:55.149Z",
+  "generated_at": "2026-11-24T12:09:15.059Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1413,6 +1413,19 @@
       "last_pushed_at": "2026-11-24T11:48:54.525Z",
       "language": "python",
       "lines": 25
+    },
+    "lab:24": {
+      "kind": "lab",
+      "id": "24",
+      "title": "Design Your Own Normalization Layer",
+      "difficulty": "easy",
+      "category": "Normalization",
+      "url": "https://www.deep-ml.com/labs/24",
+      "path": "labs/0024-design-your-own-normalization-layer",
+      "first_solved_at": "2026-11-24T12:09:14.269Z",
+      "last_pushed_at": "2026-11-24T12:09:14.269Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
