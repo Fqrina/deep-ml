@@ -15,9 +15,10 @@ def gini_impurity(y):
     _, counts = np.unique(arr, return_counts=True)
     probs = counts / len(arr)
 
-    sum_sq = 0.0
-    for p in probs:
-        sum_sq += p ** 2
+    # sum_sq = 0.0
+    # for p in probs:
+    #     sum_sq += p ** 2
+    sum_sq = np.sum(probs**2)
 
     val = 1.0 - sum_sq
     return round(float(val), 3)
