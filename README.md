@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**111** solved · 100 problems · 9 labs · 2 math
+**112** solved · 100 problems · 9 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -133,6 +133,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Class Imbalance and Proper Scoring](https://www.deep-ml.com/math-problems/44) | easy | 2026-10-21 | [solution](math/0044-class-imbalance-and-proper-scoring) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-10-21 | [solution](math/0030-ml-workflow-basics) |
+| [Classification Trees: Gini, Entropy and Information Gain](https://www.deep-ml.com/math-problems/113) | medium | 2026-11-25 | [solution](math/0113-classification-trees-gini-entropy-and-information-gain) |
 
 ---
 
