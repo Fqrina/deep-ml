@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**112** solved · 100 problems · 9 labs · 3 math
+**113** solved · 100 problems · 10 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -126,6 +126,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-10-17 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
 | [MNIST: Design-Your-Own tiny Pytorch Model](https://www.deep-ml.com/labs/2) | medium | 2026-10-21 | [solution](labs/0002-mnist-design-your-own-tiny-pytorch-model) |
 | [MNIST: Pytorch DataLoader](https://www.deep-ml.com/labs/1) | medium | 2026-10-16 | [solution](labs/0001-mnist-pytorch-dataloader) |
+| [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-11-26 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 
 ## Math
 
