@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**122** solved · 108 problems · 11 labs · 3 math
+**123** solved · 109 problems · 11 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -120,6 +120,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-11-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-11-27 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Transfer Weights from Linear-Style to Parameter-Style Self-Attention](https://www.deep-ml.com/problems/964) | medium | 2026-10-20 | [solution](problems/0964-transfer-weights-from-linear-style-to-parameter-style-self-attention) |
+| [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-27 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ## Labs
 
