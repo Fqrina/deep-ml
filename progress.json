@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:26:43.209Z",
+  "generated_at": "2026-11-27T12:06:05.446Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1515,6 +1515,19 @@
       "last_pushed_at": "2026-11-27T09:26:43.344Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:1151": {
+      "kind": "problem",
+      "id": "1151",
+      "title": "First N Fibonacci Numbers",
+      "difficulty": "easy",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1151",
+      "path": "problems/1151-first-n-fibonacci-numbers",
+      "first_solved_at": "2026-11-27T12:06:04.550Z",
+      "last_pushed_at": "2026-11-27T12:06:04.550Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
