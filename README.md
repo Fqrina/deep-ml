@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**121** solved · 107 problems · 11 labs · 3 math
+**122** solved · 108 problems · 11 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -118,6 +118,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-16 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-11-23 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-11-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-11-27 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Transfer Weights from Linear-Style to Parameter-Style Self-Attention](https://www.deep-ml.com/problems/964) | medium | 2026-10-20 | [solution](problems/0964-transfer-weights-from-linear-style-to-parameter-style-self-attention) |
 
 ## Labs
