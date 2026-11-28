@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**123** solved · 109 problems · 11 labs · 3 math
+**124** solved · 110 problems · 11 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -104,6 +104,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-11-27 | [solution](problems/0205-entropy-cross-entropy) |
 | [Implement a ResNet Basic Block](https://www.deep-ml.com/problems/917) | medium | 2026-11-27 | [solution](problems/0917-implement-a-resnet-basic-block) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-10-16 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-11-28 | [solution](problems/0362-implement-k-means-initialization) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-19 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-11-15 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-11-23 | [solution](problems/0026-implementing-basic-autograd-operations) |
